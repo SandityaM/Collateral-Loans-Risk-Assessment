@@ -1,0 +1,96 @@
+.container{
+	height:700px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	/* #ECE5DD */
+}
+h1 {
+    text-align: center;
+   
+    font-family: arial, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    padding: 50px 10px;
+}
+ 
+h3 {
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px 10px;
+}
+p{
+	padding: 10px 0px;
+	text-align: center;
+	text-shadow: 0 0 15px green;
+}
+table{
+	width: 90%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 5px;
+}
+.table-bordered{
+	border: 1px solid black;
+}
+.btn-width{
+	width: 40%;
+	margin-top:30px;
+	margin-bottom:60px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+.sub-container{
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.image:hover{
+	box-shadow: 0 0 5px red;
+}
+
+body {
+	
+/*     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(255,255,255,0.2)); */
+/*     background-image: linear-gradient(#000428,#004e92); */
+/*     background-image: linear-gradient(#4568dc, #b06ab3); */
+/*      background-image: linear-gradient(#02aab0 ,#00cdac); */
+     
+/*      background-image: url("/portal/image/bank_background.jpg"); */
+     background-color: #cccccc;
+}
+.login-container {
+    border: grey 1px solid;
+    box-shadow: 0 0 15px grey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 50%;
+    height: 400px;
+    padding: 30px 30px;
+    background-color: #17a2b8;
+}
+
+form input{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+form button {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border:black 1px solid;
+    box-shadow: 0 0 15px white;
+    
+}
+.error{
+	color:red;
+	font-weight: bolder;
+	font-size: 30px;
+}

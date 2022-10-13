@@ -1,0 +1,9 @@
+
+
+
+
+
+
+
+POST http://localhost:8100/v1/loan-management/createData/ HTTP/1.1
+
