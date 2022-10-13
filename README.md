@@ -11,6 +11,7 @@ A web-app where a customer applies for a loan against a collateral. An authorize
 | **Risk Assessment**        | Raise Risk based the Collateral value based on Market                                                                                                                                                                                                                           |
 | **Collateral Loan Portal** | A Web Portal that allows a Back Office Staff to login and allows to do the following operations:<br/>1. Login<br/>2. Get Loan Details based on Customer/Loan ID<br/>3. Save Collaterals for a sanctioned loan<br/>4. View Risk Assessment for every Collateral Loans (for bank) |
 
+
 ### Use Case Diagram
 ![img.png](img.png)
 ![img_1.png](img_1.png)
